@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "Cafe Arequito",
+        "price": 10000,
+        "img": "/CafeArequito.webp",
+        "quanty": 1
+    },
+    {
+        "id": 2,
+        "name": "Cafe Kerren",
+        "price": 15000,
+        "img": "/CafeKerren.webp",
+        "quanty": 1
+    },
+    {
+        "id": 3,
+        "name": "Cafe Tolhuin",
+        "price": 10000,
+        "img": "/CafeTolhuin.webp",
+        "quanty": 1
+    },
+    {
+        "id": 4,
+        "name": "Cafe Sierra",
+        "price": 8000,
+        "img": "/CafeSierra.webp",
+        "quanty": 1
+    },
+    {
+        "id": 5,
+        "name": "Cafe Yuchan",
+        "price": 15000,
+        "img": "/CafeYuchan.webp",
+        "quanty": 1
+    },
+    {
+        "id": 6,
+        "name": "Cafe Muyoj",
+        "price": 11000,
+        "img": "/CafeMuyoj.webp",
+        "quanty": 1
+    }
+]

@@ -1,0 +1,19 @@
+.navbar{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.navbar h1,h2{
+    padding: 0px 20px;
+    color: #F3F3F3;
+}
+
+.navbarLogo{
+    border: none;
+    text-decoration: none;
+}
+
+.navbarCart{
+    text-decoration: none;
+}

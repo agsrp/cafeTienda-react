@@ -1,0 +1,26 @@
+.Banner{
+    background-color: #6D461A;
+    background-size: cover;
+    background-position: center;
+    height: 80vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 15px;
+}
+
+.bannerCont{
+    text-align: center;
+}
+
+.bannerCont h1{
+    font-size: 45px;
+}
+
+.btnExplorar{
+    text-decoration: none;
+    background-color: #9E866A;
+    padding: 10px 20px;
+    color: #1a1a1a;
+    border-radius: 5px;
+}
